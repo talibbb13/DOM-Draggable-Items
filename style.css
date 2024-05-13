@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+html, body{
+ height: 100%;
+ width: 100%;
+}
+
+#main{
+ width: 100%;
+}
+
+.list {
+ min-height: 18%;
+ width: 100%;
+ background: royalblue;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ color: white;
+ text-transform: uppercase;
+ font-weight: bolder;
+ font-size: 1.5rem;
+ border-radius: .3rem;
+}
+
